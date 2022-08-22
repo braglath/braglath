@@ -19,5 +19,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braglath&" alt="braglath" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braglath&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braglath&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

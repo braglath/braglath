@@ -1,4 +1,5 @@
-[<h1 align="center">Hi 👋, I'm Braglath</h1>](https://github.com/braglath/braglath/blob/main/header.png?raw=true)
+<h1 align="center">Hi 👋, I'm Braglath</h1>
+<img src="[markdownmonstericon.png](https://github.com/braglath/braglath/blob/main/header.png?raw=true)"/>
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braglath&label=Profile%20views&color=0e75b6&style=flat" alt="braglath" /> </p>

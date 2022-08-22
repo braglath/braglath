@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braglath&show_icons=true&locale=en" alt="braglath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braglath&" alt="braglath" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braglath&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
